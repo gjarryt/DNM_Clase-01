@@ -7,7 +7,7 @@ html, body { min-height: 100%; overflow-x: hidden;}
 body {
     font-family: Helvetica, Arial, sans-serif;
     color: #222333;
-    background: linear-gradient(#eceff1, #cfd8dc);
+    background: linear-gradient(#eceff1, #0000FF);
 }
 
 main {
